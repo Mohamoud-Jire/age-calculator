@@ -325,7 +325,7 @@ border-bottom-right-radius: 250px;
 
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 375px) {
 
   .year input, .month input, .day input {
     width: 40px;
